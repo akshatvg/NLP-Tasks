@@ -1,4 +1,4 @@
-# Repo Name
+# Learning NLTK
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/NLTK-Tasks?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/NLTK-Tasks?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/NLTK-Tasks?style=social)](https://github.com/akshatvg/NLTK-Tasks/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/NLTK-Tasks?style=social&logo=git)](https://github.com/akshatvg/NLTK-Tasks/network)
 
