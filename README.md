@@ -10,7 +10,7 @@ Official repo to store all codes for learning NLTK.
 
 ![Generic badge](https://img.shields.io/badge/Natural_Language-Processing-orange) 
 
-## Requirements
+## Top Language
 
 [![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/NLTK-Tasks?logo=jupyter&style=social)](https://github.com/akshatvg/)
 
