@@ -5,9 +5,7 @@
 Official repo to store all codes for learning NLTK.
 
 <p align="center">
-<a href="#!">
 <img src="https://i.ibb.co/d27FxGL/python-nltk.png" width="200px" height="200px" alt="NLTK"/>
-</a>
 </p>
 
 ![Generic badge](https://img.shields.io/badge/Natural_Language-Processing-orange) 
