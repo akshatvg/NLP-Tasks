@@ -20,22 +20,17 @@ Design a pipeline for this problem statement. Showcase the outcomes of step in t
 
 ## Instructions to Run
 1.
-```
+```bash
 $ git clone https://github.com/akshatvg/NLP-Tasks
 $ cd NLP-Tasks
 $ mkdir Datasets && cd Datasets
 ```
-2. Install [glove.6B.50d.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
-3. Convert glove.6B.50d.txt to glove.6B.50d.w2vformat.txt by running the command below.
-4.
+2. Install [glove.6B.50d.txt](https://www.kaggle.com/watts2/glove6b50dtxt) in Datasets
+3.
+```bash
+$ cd .. && jupyter-notebook
 ```
-$ jupyter-notebook
-```
-
-## Convert glove.6B.50d.txt to glove.6B.50d.w2vformat.txt
-```python
-python -m gensim.scripts.glove2word2vec --input  glove.6B.50d.txt --output glove.6B.50d.w2vformat.txt
-```
+4. Run the Kernel
 
 ## Group Collage
 <p align="center">
