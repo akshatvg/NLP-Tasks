@@ -23,10 +23,14 @@ Design a pipeline for this problem statement. Showcase the outcomes of step in t
 ```
 $ git clone https://github.com/akshatvg/NLP-Tasks
 $ cd NLP-Tasks
-$ jupyter-notebook
+$ mkdir Datasets && cd Datasets
 ```
 2. Install [glove.6B.50d.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
 3. Convert glove.6B.50d.txt to glove.6B.50d.w2vformat.txt by running the command below.
+4.
+```
+$ jupyter-notebook
+```
 
 ## Convert glove.6B.50d.txt to glove.6B.50d.w2vformat.txt
 ```python
