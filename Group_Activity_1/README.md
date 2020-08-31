@@ -19,14 +19,14 @@ Design a pipeline for this problem statement. Showcase the outcomes of step in t
 [![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/NLTK-Tasks?logo=jupyter&style=social)](https://github.com/akshatvg/)
 
 ## Instructions to Run
+1.
 ```
 $ git clone https://github.com/akshatvg/NLP-Tasks
 $ cd NLP-Tasks
 $ jupyter-notebook
 ```
-
-## Requirements
-1. [glove.6B.50d.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
+2. Install [glove.6B.50d.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
+3. Convert glove.6B.50d.txt to glove.6B.50d.w2vformat.txt by running the command below.
 
 ## Convert glove.6B.50d.txt to glove.6B.50d.w2vformat.txt
 ```python
