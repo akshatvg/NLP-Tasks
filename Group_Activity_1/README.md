@@ -16,7 +16,7 @@ Design a pipeline for this problem statement. Showcase the outcomes of step in t
 
 ## Top Language
 
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/NLTK-Tasks?logo=jupyter&style=social)](https://github.com/akshatvg/)
+[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/NLP-Tasks?logo=jupyter&style=social)](https://github.com/akshatvg/)
 
 ## Instructions to Run
 1.
@@ -83,9 +83,9 @@ ______      _               _   _               _
 
 ## License
 
-**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/NLTK-Tasks/blob/master/LICENSE)**
+**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/NLP-Tasks/blob/master/LICENSE)**
 
-[![GitHub license](https://img.shields.io/github/license/akshatvg/NLTK-Tasks?style=social&logo=github)](https://github.com/akshatvg/NLTK-Tasks/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
+[![GitHub license](https://img.shields.io/github/license/akshatvg/NLP-Tasks?style=social&logo=github)](https://github.com/akshatvg/NLP-Tasks/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
 
 ---------
 

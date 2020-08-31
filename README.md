@@ -1,6 +1,6 @@
 # Learning NLP
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/NLTK-Tasks?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/NLTK-Tasks?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/NLTK-Tasks?style=social)](https://github.com/akshatvg/NLTK-Tasks/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/NLTK-Tasks?style=social&logo=git)](https://github.com/akshatvg/NLTK-Tasks/network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/NLP-Tasks?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/NLP-Tasks?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/NLP-Tasks?style=social)](https://github.com/akshatvg/NLP-Tasks/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/NLP-Tasks?style=social&logo=git)](https://github.com/akshatvg/NLP-Tasks/network)
 
 Official repo to store all codes for learning NLP.
 
@@ -12,7 +12,7 @@ Official repo to store all codes for learning NLP.
 
 ## Top Language
 
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/NLTK-Tasks?logo=jupyter&style=social)](https://github.com/akshatvg/)
+[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/NLP-Tasks?logo=jupyter&style=social)](https://github.com/akshatvg/)
 
 ## Requirements
 1. `conda`
@@ -73,9 +73,9 @@ ______      _               _   _               _
 
 ## License
 
-**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/NLTK-Tasks/blob/master/LICENSE)**
+**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/NLP-Tasks/blob/master/LICENSE)**
 
-[![GitHub license](https://img.shields.io/github/license/akshatvg/NLTK-Tasks?style=social&logo=github)](https://github.com/akshatvg/NLTK-Tasks/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
+[![GitHub license](https://img.shields.io/github/license/akshatvg/NLP-Tasks?style=social&logo=github)](https://github.com/akshatvg/NLP-Tasks/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
 
 ---------
 
