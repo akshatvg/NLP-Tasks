@@ -1,23 +1,22 @@
-# Learning NLP
+# Group Activity 1
+### Problem Statement:
+Assume you are a part of the NLP Tech team that works for a Publishing House. There is a shortlisted applicant (with her writing samples) for the Editor-in-chief position. How can you help the publishing house with the decision on hiring this applicant?
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/NLTK-Tasks?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/NLTK-Tasks?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/NLTK-Tasks?style=social)](https://github.com/akshatvg/NLTK-Tasks/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/NLTK-Tasks?style=social&logo=git)](https://github.com/akshatvg/NLTK-Tasks/network)
+Design a pipeline for this problem statement. Showcase the outcomes of step in the pipeline (put it on chat) at 8.20 AM, 8.30 AM and 8.40 AM along with team number. Finally submit a collage of pics of members of each team showing names and registration numbers by 2.00 PM. 
 
-Official repo to store all codes for learning NLP.
+![Generic badge](https://img.shields.io/badge/Group-Activity-orange)
 
-<p align="center">
-<img src="https://i.ibb.co/XXQf2f8/natural-language-processing.jpg" height="200px" alt="NLTK"/>
-</p>
-
-![Generic badge](https://img.shields.io/badge/Natural_Language-Processing-orange) 
+## Approach
+1. Digitising text
+2. Analysing the text.
+3. Breaking the text into simple components.
+4. Counting the words
+5. Using cosine vectorizer to compare.
+6. If similar words repeated and similar writing style, it's the same person.
 
 ## Top Language
 
 [![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/NLTK-Tasks?logo=jupyter&style=social)](https://github.com/akshatvg/)
-
-## Requirements
-1. `conda`
-2. `jupyter-notebook`
-3. `nltk`
 
 ## Instructions to Run
 ```
@@ -26,6 +25,18 @@ $ cd NLP-Tasks
 $ jupyter-notebook
 ```
 
+## Requirements
+1. [glove.6B.50d.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
+
+## Convert glove.6B.50d.txt to glove.6B.50d.w2vformat.txt
+```python
+python -m gensim.scripts.glove2word2vec --input  glove.6B.50d.txt --output glove.6B.50d.w2vformat.txt
+```
+
+## Group Collage
+<p align="center">
+<img src="./Group_Collage.jpeg" alt="Team 7 Collage" />
+</p>
 
 ## Need help?
 
